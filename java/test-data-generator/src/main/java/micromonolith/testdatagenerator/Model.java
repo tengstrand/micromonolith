@@ -7,6 +7,8 @@ import java.util.List;
  * This is an example of how you can create a test data generator
  * that can create test data to put into your database(s)
  * to simplify test data setup in your integration tests.
+ *
+ * Author: Joakim Tengstrand
  */
 public class Model {
 

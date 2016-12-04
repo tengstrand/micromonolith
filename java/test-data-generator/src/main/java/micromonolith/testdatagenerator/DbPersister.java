@@ -2,6 +2,9 @@ package micromonolith.testdatagenerator;
 
 import java.util.List;
 
+/**
+ * Author: Joakim Tengstrand
+ */
 public class DbPersister {
 
     /**

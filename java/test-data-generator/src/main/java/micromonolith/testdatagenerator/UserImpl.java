@@ -1,7 +1,10 @@
 package micromonolith.testdatagenerator;
 
+/**
+ * Author: Joakim Tengstrand
+ */
 public class UserImpl implements User {
-
+    
     public int id;
     public String givenName;
     public String surname;

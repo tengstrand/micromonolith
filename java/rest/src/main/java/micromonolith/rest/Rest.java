@@ -16,6 +16,8 @@ import java.util.List;
  * The idea is to show the principles of the monolith architecture,
  * so the code is free from technical stuff like HTTP and database connectons,
  * that is up to you to imagine in your mind!
+ *
+ * Author: Joakim Tengstrand
  */
 public class Rest {
 

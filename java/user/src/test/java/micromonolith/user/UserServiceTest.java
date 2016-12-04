@@ -7,6 +7,9 @@ import org.junit.Test;
 // services (which is not the case for the production code).
 import micromonolith.testdatagenerator.*;
 
+/**
+ * Author: Joakim Tengstrand
+ */
 public class UserServiceTest {
 
     @Test

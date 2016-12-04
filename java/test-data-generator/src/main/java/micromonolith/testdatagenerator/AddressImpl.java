@@ -1,5 +1,8 @@
 package micromonolith.testdatagenerator;
 
+/**
+ * Author: Joakim Tengstrand
+ */
 public class AddressImpl implements Address {
 
     public int id;

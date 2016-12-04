@@ -2,6 +2,9 @@ package micromonolith.address;
 
 import micromonolith.address_api.AddressData;
 
+/**
+ * Author: Joakim Tengstrand
+ */
 public class Address implements AddressData {
     private int streetNumber;
     private String streetName;
