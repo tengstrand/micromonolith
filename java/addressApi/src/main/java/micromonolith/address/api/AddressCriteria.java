@@ -6,4 +6,13 @@ public class AddressCriteria {
     public int streetNumber;
     // ...
 
+    public AddressCriteria withStreetName(String streetName) {
+        this.streetName = streetName;
+        return this;
+    }
+
+    public AddressCriteria withStreetNumber(int streetNumber) {
+        this.streetNumber = streetNumber;
+        return this;
+    }
 }
