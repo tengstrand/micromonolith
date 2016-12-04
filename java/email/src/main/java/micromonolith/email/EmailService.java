@@ -1,6 +1,7 @@
 package micromonolith.email;
 
-import micromonolith.email.api.*;
+import micromonolith.email_api.EmailSender;
+import micromonolith.email_api.PdfEmailSender;
 
 /**
  * Author: Joakim Tengstrand

@@ -1,7 +1,7 @@
 package micromonolith.user;
 
-import micromonolith.email.api.PdfEmailSender;
-import micromonolith.email.api.EmailSender;
+import micromonolith.email_api.PdfEmailSender;
+import micromonolith.email_api.EmailSender;
 
 public class UserService {
 

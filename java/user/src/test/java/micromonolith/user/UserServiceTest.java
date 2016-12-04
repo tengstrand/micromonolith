@@ -1,6 +1,6 @@
 package micromonolith.user;
 
-import micromonolith.email.api.EmailSender;
+import micromonolith.email_api.EmailSender;
 import org.junit.Test;
 
 // Our tests are allowed to have explicit dependencies to other

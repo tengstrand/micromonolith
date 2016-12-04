@@ -1,6 +1,6 @@
 package micromonolith.address;
 
-import micromonolith.address.api.AddressCriteria;
+import micromonolith.address_api.AddressCriteria;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package micromonolith.address.api;
+package micromonolith.address_api;
 
 public class AddressCriteria {
     // This is just a simple struct, and we don't have any need for getters and setters.

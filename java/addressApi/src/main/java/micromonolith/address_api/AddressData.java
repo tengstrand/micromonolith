@@ -1,4 +1,4 @@
-package micromonolith.address.api;
+package micromonolith.address_api;
 
 public interface AddressData {
     int getStreetNumber();

@@ -2,7 +2,7 @@ package micromonolith.rest;
 
 import micromonolith.address.Address;
 import micromonolith.address.AddressService;
-import micromonolith.address.api.AddressCriteria;
+import micromonolith.address_api.AddressCriteria;
 import micromonolith.email.EmailService;
 import micromonolith.user.UserService;
 
