@@ -11,9 +11,9 @@ mkdir pom-files
 
 cd pom-files
 ln -s ../../address/pom.xml address-pom.xml
-ln -s ../../addressApi/pom.xml addressApi-pom.xml
+ln -s ../../address-api/pom.xml address-api-pom.xml
 ln -s ../../email/pom.xml email-pom.xml
-ln -s ../../emailApi/pom.xml emailApi-pom.xml
+ln -s ../../email-api/pom.xml email-api-pom.xml
 ln -s ../../rest/pom.xml test-pom.xml
 ln -s ../../test-data-generator/pom.xml test-data-generator-pom.xml
 ln -s ../../user/pom.xml user-pom.xml
@@ -25,9 +25,9 @@ mkdir -p test/java/micromonolith
 cd main/java/micromonolith
 ln -s ../../../../../rest/src/main/java/micromonolith/rest
 ln -s ../../../../../address/src/main/java/micromonolith/address
-ln -s ../../../../../addressApi/src/main/java/micromonolith/address_api
+ln -s ../../../../../address-api/src/main/java/micromonolith/address_api
 ln -s ../../../../../email/src/main/java/micromonolith/email
-ln -s ../../../../../emailApi/src/main/java/micromonolith/email_api
+ln -s ../../../../../email-api/src/main/java/micromonolith/email_api
 ln -s ../../../../../user/src/main/java/micromonolith/user
 
 cd ../../../test/java/micromonolith
