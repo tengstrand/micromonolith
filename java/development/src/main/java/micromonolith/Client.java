@@ -10,6 +10,6 @@ public class Client {
     public static void main(String[] args) {
         Rest rest = new Rest();
         rest.doUserStuff();
-        rest.doUserPdfStuff();
+        rest.doMoreUserStuff();
     }
 }
