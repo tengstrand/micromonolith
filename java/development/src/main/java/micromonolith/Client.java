@@ -4,8 +4,6 @@ import micromonolith.rest.Rest;
 
 /**
  * This is our "client" that calls our "REST" API.
- *
- * Author: Joakim Tengstrand
  */
 public class Client {
 

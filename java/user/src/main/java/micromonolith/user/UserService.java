@@ -3,9 +3,6 @@ package micromonolith.user;
 import micromonolith.email_api.PdfEmailSender;
 import micromonolith.email_api.EmailSender;
 
-/**
- * Author: Joakim Tengstrand
- */
 public class UserService {
 
     // Will be injected from the Rest service.

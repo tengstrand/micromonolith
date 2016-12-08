@@ -1,8 +1,5 @@
 package micromonolith.address_api;
 
-/**
- * Author: Joakim Tengstrand
- */
 public class AddressCriteria {
     // This is just a simple struct, and we don't have any need for getters and setters.
     public String streetName;

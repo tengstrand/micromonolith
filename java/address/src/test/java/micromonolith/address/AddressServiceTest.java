@@ -8,9 +8,6 @@ import org.junit.Test;
 
 import java.util.List;
 
-/**
- * Author: Joakim Tengstrand
- */
 public class AddressServiceTest {
 
     @Test

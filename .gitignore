@@ -1,0 +1,6 @@
+.idea
+*.iml
+addressApi-1.0-SNAPSHOT.jar
+AddressCriteria.class
+java/addressApi/target
+java/development/target
