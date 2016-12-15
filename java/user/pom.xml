@@ -10,7 +10,7 @@
   <dependencies>
     <dependency>
       <groupId>micromonolith</groupId>
-      <artifactId>emailApi</artifactId>
+      <artifactId>email-api</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
