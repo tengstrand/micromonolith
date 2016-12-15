@@ -8,12 +8,11 @@ ln -s ../../email/src/email
 ln -s ../../injection/src/injection
 ln -s ../../rest/src/rest
 ln -s ../../user/src/user
-ln -s ../../test-data-generator/src/test_data_generator
 
 cd ../test
 ln -s ../../address/test/address
 ln -s ../../user/test/user
-ln -s ../../test-data-generator/test/test_data_generator
+ln -s ../../test-data-generator/src/test_data_generator
 
 cd ../project-files
 ln -s ../../address/project.clj ./address-project.clj

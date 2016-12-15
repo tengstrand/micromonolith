@@ -14,7 +14,7 @@ import java.util.List;
  * other services.
  *
  * The idea is to show the principles of the monolith architecture,
- * so the code is free from technical stuff like HTTP and database connectons,
+ * so the code is free from technical stuff like HTTP and database connections,
  * that is up to you to imagine in your mind!
  */
 public class Rest {
