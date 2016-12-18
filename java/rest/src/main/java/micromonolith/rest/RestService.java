@@ -17,7 +17,7 @@ import java.util.List;
  * so the code is free from technical stuff like HTTP and database connections,
  * that is up to you to imagine in your mind!
  */
-public class Rest {
+public class RestService {
 
     // Here we instantiates all our stateless services.
     private AddressService addressService = new AddressService();
