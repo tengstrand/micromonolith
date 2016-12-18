@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# Git supports storing symbolic links which makes the project ready to be used
-# directoy after it has been cloned from the Git repository.
+# Git supports storing symbolic links which makes the project ready
+# to be used after it has been cloned from the Git repository.
 
 # This was however how it was initially created and it also shows how
 # the project can be structured and how new directories can be added.
