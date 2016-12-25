@@ -32,6 +32,5 @@ ln -s ../../../../../user/src/main/java/micromonolith/user
 
 cd ../../../test/java/micromonolith
 ln -s ../../../../../address/src/test/java/micromonolith/address
-ln -s ../../../../../email/src/test/java/micromonolith/email
 ln -s ../../../../../user/src/test/java/micromonolith/user
 ln -s ../../../../../test-data-generator/src/main/java/micromonolith/testdatagenerator
